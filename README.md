@@ -1,4 +1,5 @@
-## Josh — independent security researcher                                                                                                   
-Reverse engineering and vulnerability research, mostly in the AI tooling ecosystem.   
+## Josh                                                                                 
+- Primarily in the AI tooling ecosystem.
+- Skilled in Reverse engineering and vulnerability research (ML AI) and general cybersecurity skills.
 
-My ML work can be found here: https://huggingface.co/helixdouble
+More on my ML work here: https://huggingface.co/helixdouble
